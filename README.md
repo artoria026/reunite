@@ -1,8 +1,6 @@
 # Reunite 🐾
 
 > Helping people reunite with their lost pets
-> **Project status:** Reunite is currently in its early *foundation phase*.  
-> Technical decisions, features, and roadmap are still being defined.
 
 ---
 
