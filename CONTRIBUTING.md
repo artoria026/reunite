@@ -1,8 +1,6 @@
 # Reunite 🐾
 
 > Helping people reunite with their lost pets
-> **Project status:** Reunite is currently in its early *foundation phase*.  
-> Technical decisions, features, and roadmap are still being defined.
 
 ---
 
@@ -40,6 +38,20 @@ Reunite aims to:
 * **Accessibility** – The platform will always be free to use
 * **Transparency** – Open source, open decisions
 * **Respect** – For people, animals, and contributors
+
+---
+
+## 🛠️ How Reunite Will Work (High Level)
+
+> This section will evolve as the project grows.
+
+Planned ideas include:
+
+* Reporting a lost pet with relevant information
+* Viewing lost pets reported nearby
+* Community-driven sightings and updates
+* Tools to organize and coordinate searches
+* Privacy and safety-first design
 
 ---
 
